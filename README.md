@@ -1,6 +1,6 @@
 # A script for polybar to display rofications.
 
-This script will display a bell if there are no rofifications. If there are rofifications, it will display a *ringing* bell with the number of rofifications next to it.
+This script will display a bell icon if there are no rofifications. If there are rofifications, it will display a *ringing* bell icon with the number of rofifications next to it.
 
 Screenshots:
 
