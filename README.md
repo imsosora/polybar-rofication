@@ -7,7 +7,7 @@ Screenshots:
 ![picture alt](https://github.com/imsosora/polybar-rofication/blob/main/images/no-notifications.jpg "No notifications")
 ![picture alt](https://github.com/imsosora/polybar-rofication/blob/main/images/two-notifications.jpg "Two notifications")
 
-If you left-click the icon, it will spawn rofification-gui.
+Left-clicking the icon will spawn rofification-gui.
 
 ## How to install
 
