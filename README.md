@@ -2,9 +2,10 @@
 
 This script will display a bell if there are no rofifications. If there are rofifications, it will display a *ringing* bell with the number of rofifications next to it.
 
-No notifications: ![picture alt](https://github.com/imsosora/polybar-rofication/blob/main/images/no-notifications.jpg "No notifications")
+Screenshots:
 
-Two notifications: ![picture alt](https://github.com/imsosora/polybar-rofication/blob/main/images/two-notifications.jpg "Two notifications")
+![picture alt](https://github.com/imsosora/polybar-rofication/blob/main/images/no-notifications.jpg "No notifications")
+![picture alt](https://github.com/imsosora/polybar-rofication/blob/main/images/two-notifications.jpg "Two notifications")
 
 If you left-click the icon, it will spawn rofification-gui.
 
