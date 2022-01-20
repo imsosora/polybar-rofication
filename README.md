@@ -2,6 +2,12 @@
 
 This script will display a bell if there are no rofifications. If there are rofifications, it will display a *ringing* bell with the number of rofifications next to it.
 
+No notifications: ![picture alt](https://github.com/imsosora/polybar-rofication/blob/main/images/no-notifications.jpg "No notifications")
+
+Two notifications: ![picture alt](https://github.com/imsosora/polybar-rofication/blob/main/images/two-notifications.jpg "Two notifications")
+
+If you left-click the icon, it will spawn rofification-gui.
+
 ## How to install
 
 1. Copy bin/rofication-status to ~/bin, make sure ~/bin is in your $PATH. We don't want the styles in the output, just the number of notifications.
