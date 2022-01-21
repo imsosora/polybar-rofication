@@ -22,3 +22,5 @@ Left-clicking the icon will spawn rofification-gui.
     click-left = ~/.config/polybar/scripts/rofication.sh --show &
     ```
 5. The icons used are from [Material Design Icons](https://github.com/google/material-design-icons "Material Design Icons"), so make sure to install the font and name it in your polybar config: `font-3 = Material Design Icons:pixelsize=16;1`
+
+See also [this blog post](https://zatsuda.wordpress.com/2022/01/21/regolith-how-to-rofication-module-for-polybar/ "Blog Post").
